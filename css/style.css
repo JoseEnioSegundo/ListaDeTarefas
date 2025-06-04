@@ -1,0 +1,7 @@
+main {
+  display: flex;
+  justify-content: center;
+  border: 1px solid #ccc;
+  align-items: center;
+  height: 200px; /* Altura para demonstrar a centralização */
+}
